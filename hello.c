@@ -8,7 +8,7 @@ int main(void) {
 
 	srand((unsigned int) time(NULL));
 	d = (double) rand() + M_PI;
-	emit("Hello, World! test3", d);
+	emit("Hello, World! test4", d);
 	return EXIT_SUCCESS;
 }
 
